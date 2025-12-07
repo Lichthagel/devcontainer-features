@@ -1,0 +1,6 @@
+{
+  "id": "install-ca-crt",
+  "version": "1.0.0",
+  "name": "Install CA Certificate",
+  "description": "Installs custom CA certificate into the system trust store"
+}
