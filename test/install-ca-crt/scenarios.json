@@ -4,5 +4,23 @@
     "features": {
       "install-ca-crt": {}
     }
+  },
+  "alpine": {
+    "image": "mcr.microsoft.com/devcontainers/base:alpine",
+    "features": {
+      "install-ca-crt": {}
+    }
+  },
+  "debian": {
+    "image": "mcr.microsoft.com/devcontainers/base:debian",
+    "features": {
+      "install-ca-crt": {}
+    }
+  },
+  "fedora": {
+    "image": "fedora:latest",
+    "features": {
+      "install-ca-crt": {}
+    }
   }
 }
